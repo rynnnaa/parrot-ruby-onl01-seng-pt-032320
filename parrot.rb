@@ -1,4 +1,4 @@
-def parrot
+def parrot()
   puts #{str}
   return #{str}
 end
